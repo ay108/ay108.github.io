@@ -1,10 +1,12 @@
 # ay108.github.io
 All about me
 
-###Education
-Data Science and Economics, B.A.
+Education
+Wellesley College Data Science and Economics, B.A.
 
-###Work Experience
+Work Experience
 Data Science Intern at Alaska Center for Energy and Power
-- LSTM model for electricity prices
+- Build LSTM model forcast for electricity prices
+
+
 
