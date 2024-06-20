@@ -1,5 +1,5 @@
-# Ash Yang
-Hello! I am Ashley, or Ash
+# About me:
+Hello! I am Ashley, or Ash, and I'm a junior interested in ML applications, Environmental Justice, and obsessed with my cats!
 
 # Education: 
 Data Science and Economics, Wellesley College B.A.
