@@ -28,5 +28,7 @@ Data Science and Economics, Wellesley College B.A.
 - https://github.com/ay108/BechdelTest
 - Language: Java
 
+#### D-Lab India: Affordable Housing Prototyping using Bamboo
+- https://d-lab.mit.edu/news-blog/blog/building-bamboo-houses-india-iap-diary
 
 
